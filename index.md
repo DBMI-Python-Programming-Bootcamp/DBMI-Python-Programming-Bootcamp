@@ -6,6 +6,7 @@ This is the landing page for the Summer 2023 UAMS DBMI Python Programming Bootca
 
 [Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702) by Eric Matthes.
  
+Please start by skimming Chapter 1, but *do not follow any instructions in Chapter 1 for setting up software*. We will use different software that needs to be configured differently.
 
 
 
