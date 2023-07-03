@@ -20,6 +20,6 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | Tuesday, July 18 2023   | Selection statements        | Read Ch 5 |
 | Thursday, July 20 2023   | Dictionaries        | Read Ch 6 |
 | Tuesday, July 25 2023   | Input and while loops        | Read Ch 7|
-| Thursday, July 27 2023   | Functions        | Reach Ch 8 |
+| Thursday, July 27 2023   | Functions        | Read Ch 8 |
 | Tuesday, August 1 2023   | Data science libraries & wrap-up        | |
 
