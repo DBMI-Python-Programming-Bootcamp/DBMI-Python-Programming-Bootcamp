@@ -16,7 +16,7 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | ----------- | ----------- |
 | Thursday, July 6 2023      | [Introduction, basic concepts](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab01)	| Read Ch 2      |
 | Tuesday, July 11 2023   | Lists     | Read Ch 3|
-| Thursday, July 13 2023   | Lists and Loops        | Read Ch 4|
+| Thursday, July 13 2023   | Lists & Loops        | Read Ch 4|
 | Tuesday, July 18 2023   | Selection statements        | Read Ch 5 |
 | Thursday, July 20 2023   | Dictionaries        | Read Ch 6 |
 | Tuesday, July 25 2023   | Input and while loops        | Read Ch 7|
