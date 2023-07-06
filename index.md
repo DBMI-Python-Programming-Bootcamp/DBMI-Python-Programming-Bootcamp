@@ -1,6 +1,6 @@
-# Welcome!
+# Welcome
 
-This is the landing page for the Summer 2023 UAMS DBMI Python Programming Bootcamp.
+This is the landing page for the Summer 2023 UAMS DBMI Python Programming Bootcamp. The schedule of topics below contains links to pages for individual lab sessions.
 
 # Textbook
 
