@@ -28,10 +28,10 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 
 | Due Date | Item     |
 | -------- | -------- |
-| July 13     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
-| July 13     | [Quiz 1](https://forms.office.com/r/wWQxCs6KEi)         |
-| July 18     | [HW01](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw01)         |
-| July 18     | [Quiz 2](https://forms.office.com/r/eZ11986KZy)         |
+| ~~July 13~~     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
+| ~~July 13~~     | [Quiz 1](https://forms.office.com/r/wWQxCs6KEi)         |
+| ~~July 18~~     | [HW01](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw01)         |
+| ~~July 18~~     | [Quiz 2](https://forms.office.com/r/eZ11986KZy)         |
 | July 21     | [HW02](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw02)         |
 | July 21     | [Quiz 3](https://forms.office.com/r/iNkpsG90W4)         |
 | July 25     | [HW03](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw03)         |
