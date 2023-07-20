@@ -18,7 +18,7 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | Tuesday, July 11 2023   | [Lists](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab02)     | Read Ch 3|
 | Thursday, July 13 2023   | [Lists & Loops](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab03)        | Read Ch 4|
 | Tuesday, July 18 2023   | [Selection statements](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab04)        | Read Ch 5 |
-| Thursday, July 20 2023   | Dictionaries        | Read Ch 6 |
+| Thursday, July 20 2023   | [Dictionaries](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab05)        | Read Ch 6 |
 | Tuesday, July 25 2023   | Input and while loops        | Read Ch 7|
 | Thursday, July 27 2023   | Functions        | Read Ch 8 |
 | Tuesday, August 1 2023   | Data science libraries & wrap-up        | |
