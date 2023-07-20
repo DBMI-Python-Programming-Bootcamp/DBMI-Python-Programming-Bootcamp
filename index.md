@@ -23,3 +23,12 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | Thursday, July 27 2023   | Functions        | Read Ch 8 |
 | Tuesday, August 1 2023   | Data science libraries & wrap-up        | |
 
+
+# Assignments
+
+| Due Date | Item     |
+| -------- | -------- |
+| July 13     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
+| July 18     | [HW01](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw01)         |
+| July 25     | [HW02](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw02)         |
+| July 25     | [HW03](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw03)         |
