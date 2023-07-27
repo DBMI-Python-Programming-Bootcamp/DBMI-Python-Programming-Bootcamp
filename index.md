@@ -20,7 +20,7 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | Tuesday, July 18 2023   | [Selection statements](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab04)        | Read Ch 5 |
 | Thursday, July 20 2023   | [Dictionaries](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab05)        | Read Ch 6 |
 | Tuesday, July 25 2023   | [While loops & more](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/lab-sessions/lab06)        | Read Ch 7|
-| Thursday, July 27 2023   | Functions        | Read Ch 8 |
+| Thursday, July 27 2023   | [Functions](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/blob/main/lab-sessions/lab07)        | Read Ch 8 |
 | Tuesday, August 1 2023   | Data science libraries & wrap-up        | |
 
 
@@ -32,8 +32,8 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | ~~July 13~~     | [Quiz 1](https://forms.office.com/r/wWQxCs6KEi)         |
 | ~~July 18~~     | [HW01](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw01)         |
 | ~~July 18~~     | [Quiz 2](https://forms.office.com/r/eZ11986KZy)         |
-| July 21     | [HW02](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw02)         |
-| July 21     | [Quiz 3](https://forms.office.com/r/iNkpsG90W4)         |
-| July 25     | [HW03](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw03)         |
-| July 25     | [Quiz 4](https://forms.office.com/r/qzmSyzxHqT)         |
+| ~~July 21~~     | [HW02](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw02)         |
+| ~~July 21~~     | [Quiz 3](https://forms.office.com/r/iNkpsG90W4)         |
+| ~~July 25~~     | [HW03](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw03)         |
+| ~~July 25~~     | [Quiz 4](https://forms.office.com/r/qzmSyzxHqT)         |
 | July 27     | [Quiz 5](https://forms.office.com/r/iShTYg60RQ)         |
