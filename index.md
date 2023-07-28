@@ -36,4 +36,5 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | ~~July 21~~     | [Quiz 3](https://forms.office.com/r/iNkpsG90W4)         |
 | ~~July 25~~     | [HW03](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw03)         |
 | ~~July 25~~     | [Quiz 4](https://forms.office.com/r/qzmSyzxHqT)         |
-| July 27     | [Quiz 5](https://forms.office.com/r/iShTYg60RQ)         |
+| ~~July 27~~     | [Quiz 5](https://forms.office.com/r/iShTYg60RQ)         |
+| August 01     | [HW04](https://github.com/DBMI-Python-Programming-Bootcamp/2023-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw04)         |
