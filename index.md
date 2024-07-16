@@ -24,3 +24,9 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | Tuesday, August 6 2024   | [Data science libraries & wrap-up](https://github.com/DBMI-Python-Programming-Bootcamp/2024-Python-Programming-Bootcamp-Materials/blob/main/lab-sessions/lab08)         | |
 
 
+
+# Assignments
+
+| Due Date | Item     |
+| -------- | -------- |
+| ~~July 18~~     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2024-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
