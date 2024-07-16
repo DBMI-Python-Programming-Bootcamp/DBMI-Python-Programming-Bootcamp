@@ -29,4 +29,4 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 
 | Due Date | Item     |
 | -------- | -------- |
-| ~~July 18~~     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2024-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
+| July 18     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2024-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
