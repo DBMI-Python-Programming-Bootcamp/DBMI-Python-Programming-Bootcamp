@@ -38,6 +38,8 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | July 30     | [HW03](https://github.com/DBMI-Python-Programming-Bootcamp/2024-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw03)         |
 | July 30     | [Quiz 4](https://forms.office.com/r/1Jveedz9HS)         |
 | August 01     | [Quiz 5](https://forms.office.com/r/0sSUgD158a)         |
+| August 06     | [HW04](https://github.com/DBMI-Python-Programming-Bootcamp/2024-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw04)         |
+| August 06     | [Quiz 6](https://forms.office.com/r/JPkGmjHhra) |
 
 
 
