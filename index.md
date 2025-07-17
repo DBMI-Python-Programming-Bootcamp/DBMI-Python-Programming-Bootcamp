@@ -30,7 +30,8 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | Due Date | Item     |
 | -------- | -------- |
 | July 10     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw00)         |
-| July 15     | [HW00](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw01)         |
+| July 15     | [HW01](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw01)         |
+| July 17     | [HW02](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw02)         |
 
 
 
