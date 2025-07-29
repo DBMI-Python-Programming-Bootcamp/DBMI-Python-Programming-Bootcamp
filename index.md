@@ -40,6 +40,7 @@ Please start by skimming Chapter 1, but *do not follow any instructions in Chapt
 | July 24     | [HW04](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw04)         |
 | July 29     | [QUIZ 05](https://forms.office.com/r/00RLpqu024)         |
 | July 29     | [HW05](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw05)         |
+| July 31     | [HW05](https://github.com/DBMI-Python-Programming-Bootcamp/2025-Python-Programming-Bootcamp-Materials/tree/main/assignments/hw06)         |
 
 
 
